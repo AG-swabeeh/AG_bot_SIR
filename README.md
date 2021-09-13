@@ -13,7 +13,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/AG-swabeeh">AG_bot_SIR-v1</a> to make it public
     <br>
        | © |
         Reserved |
