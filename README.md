@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7E9&lines=Welcome+to+AG_bot_SIR+WA+Bot+repo;Created+by+swabeeh;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08C0EB&size=24&lines=Welcome+to+AG_bot_SIR+wa+repo;Bot+created+by+swabeeh;This+is+the+best++bgm+bot;With+more+features+;++++For+mallu+++BOT)](https://git.io/typing-svg)
 
  </a>
 </p>
